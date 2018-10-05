@@ -1,3 +1,5 @@
+package edu.cnm.deepdive;
+
 public class MultThreeFive {
 
   public static void main(String[] args) {
